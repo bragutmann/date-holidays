@@ -12,28 +12,6 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      02-14:
-        _name: 02-14
-        type: observance
-      easter -52:
-        name:
-          de: Weiberfastnacht
-          en: Women's Carnival Day
-        type: observance
-      easter -48:
-        name:
-          de: Rosenmontag
-          en: Shrove Monday
-        type: observance
-      'easter -47 14:00':
-        _name: easter -47
-        type: bank
-      easter -46:
-        _name: easter -46
-        type: observance
-      easter -3:
-        _name: easter -3
-        type: observance
       easter -2:
         _name: easter -2
       easter:
@@ -59,18 +37,6 @@ holidays:
         _name: National Holiday
         name:
           de: Tag der Deutschen Einheit
-      11-01:
-        _name: 11-01
-        type: observance
-      11-02:
-        _name: 11-02
-        type: observance
-      11-11:
-        _name: 11-11
-        type: observance
-      wednesday before 11-23:
-        _name: Buß- und Bettag
-        type: observance
       6th sunday before 12-25:
         name:
           de: Volkstrauertag
